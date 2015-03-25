@@ -1,0 +1,15 @@
+{
+    "name": "jamescarlos/DocuSign-PHP-Client",
+    "description": "Composer compatiable port of the official DocuSign lib",
+    "authors": [
+        {
+            "name": "James Carlos",
+            "email": "james@jamescarlos.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/DocuSign_Client.php"
+        ]
+    }
+}
